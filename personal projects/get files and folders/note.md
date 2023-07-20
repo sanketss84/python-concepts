@@ -1,4 +1,9 @@
 
+## objectives
+- recursively parse root folder and list all files
+- have a filter list to skip certain files and folder
+- filter and list only certain type of files like only markdown files for eg
+
 ## notes
 this whole code was possible with the help of this article
 [How to Get a List of All Files in a Directory With Python – Real Python](https://realpython.com/get-all-files-in-directory-python/#opting-out-of-listing-junk-directories)
